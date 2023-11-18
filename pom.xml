@@ -32,6 +32,7 @@
         <poi>3.16</poi>
     </properties>
     <dependencyManagement>
+
         <dependencies>
             <dependency>
                 <groupId>org.mybatis.spring.boot</groupId>
@@ -123,5 +124,6 @@
                 <version>0.4.8</version>
             </dependency>
         </dependencies>
+
     </dependencyManagement>
 </project>
