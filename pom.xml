@@ -32,7 +32,6 @@
         <poi>3.16</poi>
     </properties>
     <dependencyManagement>
-
         <dependencies>
             <dependency>
                 <groupId>org.mybatis.spring.boot</groupId>
@@ -112,6 +111,7 @@
                 <artifactId>poi</artifactId>
                 <version>${poi}</version>
             </dependency>
+
             <dependency>
                 <groupId>org.apache.poi</groupId>
                 <artifactId>poi-ooxml</artifactId>
